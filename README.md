@@ -1,7 +1,7 @@
 # Xtraide
-<p style="font-size: 20px;">Hello je suis Nicolas Thieblemont.</p>
-<p style="font-size: 20px;">Je suis un developpeur Back-end.</p>
-<p style="font-size: 20px;">Je suis en bac + 2 dans un But.</p>
+<p style="font-size: 25px;">Hello je suis Nicolas Thieblemont.</p>
+<p style="font-size: 25px;">Je suis un developpeur Back-end.</p>
+<p style="font-size: 25px;">J'étudie en bac + 2 dans un But.</p>
 
 # Technical Skills
 
