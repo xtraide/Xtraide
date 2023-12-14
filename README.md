@@ -8,7 +8,7 @@ Je suis en bac + 2 dans un But
 - :computer: Programming Languages: PHP, JavaScript, Python, Java
 - :wrench: Tools: Git, VS Code
 - :globe_with_meridians: Web Technologies: HTML, CSS, Bootstrap
-- :database: Databases: MySQL, MongoDB
+- 🛢 Databases: MySQL, MongoDB
 - :gear: Frameworks: Laravel
 
 # Activity
