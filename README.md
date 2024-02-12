@@ -7,7 +7,7 @@
 - :wrench: Tools: Git, VS Code
 - :globe_with_meridians: Web Technologies: HTML, CSS, Bootstrap
 - 🛢 Databases: MySQL, MongoDB
-- :gear: Frameworks: Laravel
+- :gear: Frameworks: Symfony
 
 # Activity
 ![Xtraide's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xtraide&show_icons=true&theme=radical)
