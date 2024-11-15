@@ -6,8 +6,8 @@
 - :computer: Programming Languages: PHP, JavaScript, Python, Java
 - :wrench: Tools: Git, VS Code
 - :globe_with_meridians: Web Technologies: HTML, CSS, Bootstrap
-- 🛢 Databases: MySQL, MongoDB
-- :gear: Frameworks: Symfony,Angular
+- 🛢 Databases: MySQL, MongoDB,H2
+- :gear: Frameworks: Symfony,Angular, Spring
 
 # Activity
 ![Xtraide's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xtraide&show_icons=true&theme=radical)
