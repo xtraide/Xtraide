@@ -1,6 +1,5 @@
 # 💫 About Me:
-test
-
+Étudiant passionné par l'informatique, je suis déterminé à devenir développeur full stack, avec une préférence marquée pour le backend. Mon parcours d'apprentissage m'a permis de développer une compréhension approfondie des rouages du développement informatique, en abordant à la fois les aspects front-end et back-end. Enthousiaste à l'idée de relever de nouveaux défis, je suis à la recherche d'opportunités stimulantes pour perfectionner mes compétences et évoluer en tant que professionnel polyvalent.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/xtrmxtraide) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Nicolas Thieblemont ](https://www.linkedin.com/in/nicolas-thieblemont-73b25a209/) ) 
